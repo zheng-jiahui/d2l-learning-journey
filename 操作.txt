@@ -1,0 +1,15 @@
+ git init
+
+git remote add origin https://github.com/zheng-jiahui/d2l-learning-journey
+
+git add .
+
+git branch -M main
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
+git add .
+git commit -m "添加复现记录的Self-Monitoring.md"
+git push -u origin main
