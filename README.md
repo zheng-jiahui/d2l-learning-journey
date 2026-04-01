@@ -151,9 +151,9 @@ pip install -r requirements.txt
 ## 📝 学习记录
 
 ### 已完成章节笔记
-- [第2章：线性回归知识点总结](02_preliminarie\知识点.md)
-- [第3章：线性回归知识点总结](03_linear_networks/知识点.md)
-- [第4章：多层感知机知识点总结](04_multilayer_perceptrons\知识点.md)
+- [第2章：预备知识知识点总结](02_preliminarie/知识点.md)
+- [第3章：线性神经网络知识点总结](03_linear_networks/知识点.md)
+- [第4章：多层感知机知识点总结](04_multilayer_perceptrons/知识点.md)
 - 更多笔记持续更新中...
 
 ### 学习心得
