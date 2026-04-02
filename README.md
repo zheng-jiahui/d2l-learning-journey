@@ -33,13 +33,13 @@
   - [x] 卷积层
   - [x] 池化层
   - [x] LeNet
-- [ ] **第7章：现代卷积神经网络**
-  - [ ] AlexNet
-  - [ ] VGG
-  - [ ] NiN
-  - [ ] GoogLeNet
-  - [ ] ResNet
-  - [ ] DenseNet
+- [x] **第7章：现代卷积神经网络**
+  - [x] AlexNet
+  - [x] VGG
+  - [x] NiN
+  - [x] GoogLeNet
+  - [x] ResNet
+  - [x] DenseNet
 - [ ] **第8章：循环神经网络**
   - [ ] 序列模型
   - [ ] 文本预处理
