@@ -29,10 +29,10 @@
   - [x] GPU计算
 
 ### 第二部分：现代深度学习技术
-- [ ] **第6章：卷积神经网络**
-  - [ ] 卷积层
-  - [ ] 池化层
-  - [ ] LeNet
+- [x] **第6章：卷积神经网络**
+  - [x] 卷积层
+  - [x] 池化层
+  - [x] LeNet
 - [ ] **第7章：现代卷积神经网络**
   - [ ] AlexNet
   - [ ] VGG
@@ -155,6 +155,7 @@ pip install -r requirements.txt
 - [第3章：线性神经网络知识点总结](03_linear_networks/知识点.md)
 - [第4章：多层感知机知识点总结](04_multilayer_perceptrons/知识点.md)
 - [第5章：深度学习计算知识点总结](05_deep_learning_computation/知识点.md)
+- [第6章：卷积神经网络知识点总结](06_convolutional_neural_networks/知识点.md)
 - 更多笔记持续更新中...
 
 ### 学习心得
