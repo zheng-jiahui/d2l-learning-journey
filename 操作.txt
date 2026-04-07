@@ -11,8 +11,11 @@ git commit -m "Initial commit"
 git push -u origin main
 
 git add .
-git commit -m "更新readme"
+git commit -m "更新第八章和Mobilenet"
 git push -u origin main
 
 
-git commit -m "更新第八章知识点"
+git commit -m "更新第九章知识点"
+
+只删除 commit 历史，但文件和远程都保留
+git reset --soft origin/main
